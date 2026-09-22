@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nabin 
 
-<!--
-**alivesoul7/alivesoul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student · Software Developer · Builder
 
-Here are some ideas to get you started:
+I build software to learn, solve real problems, and turn ideas into useful products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on **Java, Spring Boot, C++, Python, and software engineering**, while exploring systems, backend architecture, and open-source development.
+
+### What I Build
+
+* Backend systems & APIs
+* Developer tools & experiments
+* Open-source projects
+* Real-world products and platforms
+
+### Current Focus
+
+**Building · Learning · Shipping**
+
+> Keep it simple. Understand deeply. Build things that matter.
